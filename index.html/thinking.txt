@@ -1,0 +1,19 @@
+-Think about ui
+-Functionality
+  -Add ToDo-Item
+  -Delete ToDo-Item
+  -Check TASK
+  -Total Task
+-Data
+  -tasks - Array[]
+  -tasks- an object
+  {
+  done: true/false,
+  text:'Go to the gym'.
+  id
+  }
+-Functions (in code)
+  -addTodo
+  -deleteTodo
+  -checkTodo
+  -renderList
